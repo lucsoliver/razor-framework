@@ -1,0 +1,21 @@
+﻿@page "/counter"
+
+<h1>Contador</h1>
+
+<p>Contador Atual: @currentCount</p>
+
+<br />
+Salto
+<input type="text" @bind="tamInc"/>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code {
+    private int currentCount = 0;
+    public int tamInc = 1;
+
+    private void IncrementCount()
+    {
+        currentCount+= tamInc;
+    }
+}

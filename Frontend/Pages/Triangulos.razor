@@ -1,0 +1,31 @@
+﻿@using Backend
+@page "/"
+@page "/triangulos"
+
+<h3>Triangulos</h3>
+<br />
+<p>Lado 1: </p>
+<input type="text" @bind="L1" />
+<br />
+<p>Lado 2: </p>
+<input type="text" @bind="L2" />
+<br />
+<p>Lado 3: </p>
+<input type="text" @bind="L3" />
+<br />
+<button class="btn btn-primary" @onclick="Verificar">Verificar Triangulo</button>
+
+<br />
+<p>Resposta: @Resposta</p>
+<br />
+
+@code {
+    String L1, L2, L3;
+    String Resposta;
+
+    public void Verificar()
+    {
+        ControleSimplesTriangulo c = new ControleSimplesTriangulo(L1, L2, L3);
+        Resposta = c.Resposta;
+    }
+}

@@ -1,0 +1,12 @@
+C:\Users\00091284\Downloads\Backend\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+C:\Users\00091284\Downloads\Backend\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\00091284\Downloads\Backend\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\00091284\Downloads\Backend\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+C:\Users\00091284\Downloads\Backend\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\00091284\Downloads\Backend\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00091284\Downloads\Backend\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\00091284\Downloads\Backend\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\00091284\Downloads\Backend\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\00091284\Downloads\Backend\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+C:\Users\00091284\Downloads\Backend\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\00091284\Downloads\Backend\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
